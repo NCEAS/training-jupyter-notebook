@@ -81,3 +81,4 @@ From <https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/>
 - Notebook Viewer: <https://nbviewer.jupyter.org>
 - Jupyter shortcuts and tricks: <https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/>
 - Jupyter tutorial: <https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.FvQnWPo>
+- Gallery of interesting notebooks: <https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks>
