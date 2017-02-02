@@ -1,7 +1,9 @@
 # Introduction to Jupyter Notebook
-Short introduction to Jupyter Notebook given as NCEAS roundtable. We used NCEAS Jupyterhub server to go over the Notebook interface and do a quick dive into Python using pandas to investigate the housing market in Santa Barbara. As many experienced R users were attending the session, the exposure to pandas was aimed to show how to do basic data wrangling using pandas instead of R (tidyverse).
+
+Short introduction to Jupyter Notebook given as [NCEAS' roundtable](http://roundtable.nceas.ucsb.edu/2016/11/28/introduction-to-jupyter-notebooks-and-quick-dive-into-python/) by Julien Brun, Scientific programmer at NCEAS, on 11/30/2016. We used NCEAS' Jupyterhub server to introduce the Notebook interface and do a quick dive into Python using [pandas](http://pandas.pydata.org/) to investigate the housing market in Santa Barbara (in a very simplistic way). As many experienced R users were attending the session, the exposure to pandas was aimed to demonstrate how to implement basic data wrangling using pandas.
 
 ## License
+
 National Center for Ecological Analysis and Synthesis, NCEAS, UCSB
 
 Copyright (c) 2016, the Regents of the University of California
