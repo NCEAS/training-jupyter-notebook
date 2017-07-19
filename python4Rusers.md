@@ -100,7 +100,7 @@ Note functions should be declared in the order of their first use
 
 # Python Basics
 
-##Numbers
+## Numbers
 
 The interpreter acts as a simple calculator: you can type an expression and it will write the value. Expression syntax is straightforward: the operators `+`, `-`, `*` and `/` work just like in most other languages (for example, Pascal or C); parentheses (`()`) can be used for grouping. For example:
 
@@ -115,7 +115,7 @@ The interpreter acts as a simple calculator: you can type an expression and it w
 # 1.6
 ```
 
-##Numbers: numeric types and operations
+### Numbers: numeric types and operations
 
 Integers (e.g. 2, 4, 20) have type `int` and ones with a fractional part (e.g. 5.0, 1.6) have type ```float```. We will see more about numeric types later.
 
@@ -134,7 +134,7 @@ The return type of division (`/`) operations depends on its operands. If both op
 # 17
 ```
 
-##Numbers: power operations
+### Numbers: power operations
 With Python, use the ```**``` operator to calculate powers
 
 ```python
@@ -144,7 +144,7 @@ With Python, use the ```**``` operator to calculate powers
 # 128
 ```
 
-##Assigning values to variables
+## Assigning values to variables
 The equal sign (```=```) is used to assign a value to a variable. No result is displayed before the next interactive prompt:
 
 ```python
@@ -193,7 +193,7 @@ C:\some\name
 ```
 
 
-##Spanning multiple lines
+## Spanning multiple lines
 String literals can span multiple lines. One way is using triple-quotes: ```"""..."""``` or ```'''...'''```. End of lines are automatically included in the string, but it’s possible to prevent this by adding a ```\``` at the end of the line. The following example:
 
 ```
@@ -213,7 +213,7 @@ Usage: thingy [OPTIONS]
 ```
 
 
-##Indexing strings
+## Indexing strings
 Strings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one:
 
 ```
@@ -229,7 +229,7 @@ Indices may be negative, to start counting from the right:
  word[-6]
 ```
 
-##Slicing strings
+## Slicing strings
 One way to remember how slices work is to think of the indices as pointing between characters, with the left edge of the first character numbered 0. Then the right edge of the last character of a string of n characters has index n, for example:
 
 ```
@@ -293,7 +293,7 @@ Lists can be nested (list of lists):
  x[0][1]
 ```
 
-##List methods
+## List methods
 
 **list.append(x)**
 Add an item to the end of the list; equivalent to a[len(a):] = [x].
